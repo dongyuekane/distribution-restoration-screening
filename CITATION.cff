@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite it."
+title: "Service-Block Exclusion for AC-Verified Restoration with Reverse Power Flow"
+type: software
+authors:
+  - family-names: Kan
+    given-names: Dongyue
